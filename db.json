@@ -2,51 +2,27 @@
   "cms": [
     {
       "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
-      "intent": "hoge",
-      "subject": "うーん。ごめんなさい。その内容については詳しくないんです。",
+      "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
+      "actionId": "action1",
+      "topic": "chat-1"
+    },
+    {
+      "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
       "response": "目的の値がとれています",
-      "topic": "chat-2",
-      "facility": "*",
-      "event": "*",
-      "goods": "*",
-      "document": "*",
-      "service": "*"
+      "actionId": "action2",
+      "topic": "chat-2"
     },
     {
       "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
-      "intent": "hoge",
-      "subject": "fuga",
       "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
-      "topic": "chat-4",
-      "facility": "*",
-      "event": "*",
-      "goods": "*",
-      "document": "*",
-      "service": "*"
-    },
-    {
-      "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
-      "intent": "fuga",
-      "subject": "うーん。ごめんなさい。その内容については詳しくないんです。",
-      "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
-      "topic": "chat-1",
-      "facility": "*",
-      "event": "*",
-      "goods": "*",
-      "document": "*",
-      "service": "*"
+      "actionId": "action3",
+      "topic": "chat-3"
     },
     {
       "applicationId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "intent": "hoge",
-      "subject": "うーん。ごめんなさい。その内容については詳しくないんです。",
       "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
-      "topic": "chat-3",
-      "facility": "*",
-      "event": "*",
-      "goods": "*",
-      "document": "*",
-      "service": "*"
+      "actionId": "action4",
+      "topic": "chat-4"
     }
   ]
 }
