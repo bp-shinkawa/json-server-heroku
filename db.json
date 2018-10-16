@@ -6,23 +6,23 @@
       "subject": "うーん。ごめんなさい。その内容については詳しくないんです。",
       "response": "目的の値がとれています",
       "topic": "chat-2",
-      "facility": "",
-      "event": "",
-      "goods": "",
-      "document": "",
-      "service": ""
+      "facility": "*",
+      "event": "*",
+      "goods": "*",
+      "document": "*",
+      "service": "*"
     },
     {
       "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
       "intent": "hoge",
       "subject": "fuga",
       "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
-      "topic": "chat-2",
-      "facility": "",
-      "event": "",
-      "goods": "",
-      "document": "",
-      "service": ""
+      "topic": "chat-4",
+      "facility": "*",
+      "event": "*",
+      "goods": "*",
+      "document": "*",
+      "service": "*"
     },
     {
       "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
@@ -30,11 +30,11 @@
       "subject": "うーん。ごめんなさい。その内容については詳しくないんです。",
       "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
       "topic": "chat-1",
-      "facility": "",
-      "event": "",
-      "goods": "",
-      "document": "",
-      "service": ""
+      "facility": "*",
+      "event": "*",
+      "goods": "*",
+      "document": "*",
+      "service": "*"
     },
     {
       "applicationId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
@@ -42,11 +42,11 @@
       "subject": "うーん。ごめんなさい。その内容については詳しくないんです。",
       "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
       "topic": "chat-3",
-      "facility": "",
-      "event": "",
-      "goods": "",
-      "document": "",
-      "service": ""
+      "facility": "*",
+      "event": "*",
+      "goods": "*",
+      "document": "*",
+      "service": "*"
     }
   ]
 }
