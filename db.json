@@ -3,25 +3,25 @@
     {
       "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
       "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
-      "actionId": "action1",
+      "actionId": "chat-1",
       "topic": "chat-1"
     },
     {
       "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
       "response": "目的の値がとれています",
-      "actionId": "action2",
+      "actionId": "chat-2",
       "topic": "chat-2"
     },
     {
       "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
       "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
-      "actionId": "action3",
+      "actionId": "chat-3",
       "topic": "chat-3"
     },
     {
       "applicationId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
       "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
-      "actionId": "action4",
+      "actionId": "chat-4",
       "topic": "chat-4"
     }
   ]
