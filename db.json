@@ -2,40 +2,29 @@
   "cms": [
     {
       "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
-      "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
-      "actionId": "chat-1",
+      "actionId": "exchangeElectric",
       "topic": "break",
-      "facility": "",
-      "goods": "鍵",
-      "buttons": "button-001;button-002;button-003"
+      "goods": "鍵"
     },
     {
       "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
-      "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
       "actionId": "chat-1",
-      "topic": "chat-1",
-      "buttons": "button-001;button-002;button-003"
+      "topic": "chat-1"
     },
     {
       "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
-      "response": "目的の値がとれています",
       "actionId": "chat-2",
-      "topic": "chat-2",
-      "buttons": "button-001;button-002;button-003"
+      "topic": "chat-2"
     },
     {
       "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
-      "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
       "actionId": "chat-3",
-      "topic": "chat-3",
-      "buttons": "button-001;button-002;button-003"
+      "topic": "chat-3"
     },
     {
       "applicationId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
       "actionId": "chat-4",
-      "topic": "chat-4",
-      "buttons": "button-001;button-002;button-003"
+      "topic": "chat-4"
     }
   ]
 }
