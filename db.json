@@ -4,8 +4,16 @@
       "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
       "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
       "actionId": "chat-1",
+      "topic": "break",
+      "goods": "鍵",
+      "buttons": "button-001;button-002;button-003",
+    },
+    {
+      "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
+      "response": "🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞",
+      "actionId": "chat-1",
       "topic": "chat-1",
-      "buttons": "button-001;button-002;button-003"
+      "buttons": "button-001;button-002;button-003",
     },
     {
       "applicationId": "61440289-b323-44df-b7a7-a076f7cecd8a",
